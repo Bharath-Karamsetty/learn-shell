@@ -8,4 +8,4 @@ echo Course Name - $course
 echo Learner Name - ${learner}
 
 Date=$(date +%F)
-echo Today Date is - $Date
+echo Today Date is $Date
