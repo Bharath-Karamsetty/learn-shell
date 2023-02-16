@@ -12,5 +12,5 @@ Date=$(date +%F)
 echo Today Date is $Date
 
 # For Arithmetic Operation use below syntax
-Add=${(2+3)}
+Add=$((2+3))
 echo ADD - $Add
