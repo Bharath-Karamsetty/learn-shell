@@ -1,8 +1,8 @@
 #!/bin/bash
 
-#List of File
+# List of File
 ls
-#read top two lines in /etc/passwd file
+# read top two lines in /etc/passwd file
 cat /etc/passwd | head -2
-#serach root user in /etc/passwd file
+# serach root user in /etc/passwd file
 grep root /etc/passwd
