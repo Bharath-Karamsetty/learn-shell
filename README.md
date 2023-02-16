@@ -13,6 +13,6 @@ Shell Scripting Topics
 7. Inputs
 8. Quotes
 9. Redirectors
-10. SED Edito
+10. SED Editor
 
 ##
