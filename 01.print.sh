@@ -1,4 +1,4 @@
 echo Hello world
 
-echo *** Hello wold ***
+echo "*** Hello wold ***"
 
