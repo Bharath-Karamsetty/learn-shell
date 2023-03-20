@@ -12,7 +12,7 @@ Shell Scripting Topics
 6. Exit status
 7. Inputs
 8. Quotes
-9. Redirector
+9. Redirectors
 10. SED Editor
 
 ##
