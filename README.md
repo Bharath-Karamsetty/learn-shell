@@ -9,7 +9,7 @@ Shell Scripting Topics
 3. Functions (F)
 4. Conditions (C)
 5. Loops (L)
-6. Exit status
+6. Exit status - 
 7. Inputs
 8. Quotes
 9. Redirectors
